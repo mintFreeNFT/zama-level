@@ -7,3 +7,4 @@
 ## 🟨 You will unlock:
 - ✔️ Zama Champion role on Discord
 - ✔️ Access to #developer-program channel with other Champions
+- ✔️ Exclusive Zama swags
