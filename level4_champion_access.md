@@ -5,3 +5,4 @@
 2. 🕵️ The Zama team will review your submission during the following week. Once we have verified that your submission is valid, you’ll be granted access to Level 4: Champion.
 
 ## 🟨 You will unlock:
+- ✔️ Zama Champion role on Discord
