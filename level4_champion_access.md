@@ -8,3 +8,4 @@
 - ✔️ Zama Champion role on Discord
 - ✔️ Access to #developer-program channel with other Champions
 - ✔️ Exclusive Zama swags
+- ✔️ Entry ticket to receive part of the reward pool for this month's competition.
